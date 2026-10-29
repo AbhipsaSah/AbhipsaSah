@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhipsa Sahoo
-- 👀 I’m interested in webdev, UIUX, flutter, CP, AI/ML
-- 🌱 I’m currently learning UIUX
+- 👀 I’m interested in AI/ML
 - 📫 How to reach me- sahooabhipsa893@gmail.com
 
 <!---
